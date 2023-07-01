@@ -1,6 +1,11 @@
 # MFA
 Official code for Motional Foreground Attention-based (MFA) Video Crowd Counting. 
 
+## Dataset
+- Bus: [BaiduNetDisk](https://pan.baidu.com/s/1FR7PMrdhpNB2OgkY_QbbDw?pwd=ir6n), [GoogleDrive](), 
+- Canteen: [BaiduNetDisk](https://pan.baidu.com/s/18XtesjJTBolXMwHZFoazVw?pwd=yi7b), [GoogleDrive](), 
+- Classroom: [BaiduNetDisk](https://pan.baidu.com/s/1ZbD3aLNuu7syw86a7UQe-g?pwd=z3q8), [GoogleDrive](). 
+
 ## Train 
 1. Download the dataset. 
 2. Change the path to the path which includes 'train.py'.
